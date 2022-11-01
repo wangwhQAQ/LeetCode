@@ -5,6 +5,7 @@
     <content url="file://$MODULE_DIR$">
       <sourceFolder url="file://$MODULE_DIR$/字母大小写全排列/untitled/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/神奇字符串/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/最小差值 II/untitled/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/检查两个字符串数组是否相等/untitled/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
