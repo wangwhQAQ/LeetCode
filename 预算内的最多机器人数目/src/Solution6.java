@@ -1,4 +1,4 @@
-public class Solution4 {
+public class Solution6 {
     public int[] bestCoordinate(int[][] towers, int radius) {
         int nums = towers.length;
         int maxSignal = 0;
