@@ -1,41 +1,36 @@
-public class Solution6 {
-    public int[] bestCoordinate(int[][] towers, int radius) {
-        int nums = towers.length;
-        int maxSignal = 0;
-        int[] maxPoint = {0,0};
-        for (int i = 0; i < 51; i++) {
-            for (int j = 0; j < 51; j++) {
-                int[] point = {i,j};
-                int signal = 0;
-                for (int k = 0; k < nums; k++) {
-                    double d = distant(point,towers[k]);
-                    if (d <= radius){
-                        signal += signal(towers[k],d);
-                    }
-                }
-                if (signal > maxSignal){
-                    maxPoint = point;
-                    maxSignal = signal;
-                }
+import queue.MaxQueue;
+import queue.SumQueue;
 
+public class Solution6 {
+    public int maximumRobots(int[] chargeTimes, int[] runningCosts, long budget) {
+        SumQueue runningCostQueue = new SumQueue();
+        MaxQueue chargeTimeQueue = new MaxQueue();
+        int index = 0;
+        int maxSize = 0;
+        while (index <= chargeTimes.length){
+            if (runningCostQueue.cost() + chargeTimeQueue.maxNum() > budget){
+                runningCostQueue.poll();
+                chargeTimeQueue.poll();
+            }else {
+                if (runningCostQueue.size() > maxSize){
+                    maxSize = runningCostQueue.size();
+                }
+                if (index == chargeTimes.length){
+                    break;
+                }
+                runningCostQueue.add(runningCosts[index]);
+                chargeTimeQueue.pushBack(chargeTimes[index]);
+                index++;
             }
         }
-
-        return maxPoint;
+        return maxSize;
     }
 
-    public double distant(int[] point1, int[] point2){
-       return Math.sqrt((point1[0] - point2[0])*(point1[0] - point2[0]) + (point1[1] - point2[1])*(point1[1] - point2[1]));
-    }
-
-    public int signal(int[] point, double d){
-        return (int) (point[2]/(1+d));
-    }
 
     public static void main(String[] args) {
         Solution6 s = new Solution6();
-        int[][] t = {{30,34,31},{10,44,24},{14,28,23},{50,38,1},{40,13,6},{16,27,9},{2,22,23},{1,6,41},{34,22,40},{40,10,11}};
-        int r = 20;
-        s.bestCoordinate(t,r);
+        int[] c = {500,1,1,1,1};
+        int[] r = {1,1,1,1,1};
+        s.maximumRobots(c,r,300L);
     }
 }

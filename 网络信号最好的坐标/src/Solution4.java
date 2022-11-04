@@ -33,7 +33,7 @@ public class Solution4 {
     }
 
     public static void main(String[] args) {
-        Solution6 s = new Solution6();
+        Solution4 s = new Solution4();
         int[][] t = {{30,34,31},{10,44,24},{14,28,23},{50,38,1},{40,13,6},{16,27,9},{2,22,23},{1,6,41},{34,22,40},{40,10,11}};
         int r = 20;
         s.bestCoordinate(t,r);
