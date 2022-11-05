@@ -9,8 +9,11 @@
       <sourceFolder url="file://$MODULE_DIR$/检查两个字符串数组是否相等/untitled/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/网络信号最好的坐标/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/Utils" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/到达终点数字/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/最大重复子字符串/untitled/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/预算内的最多机器人数目/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/删除一个字符串中所有出现的给定子字符串/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/最长公共子路径/untitled/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
