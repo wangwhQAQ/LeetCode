@@ -14,6 +14,7 @@
       <sourceFolder url="file://$MODULE_DIR$/预算内的最多机器人数目/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/删除一个字符串中所有出现的给定子字符串/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/最长公共子路径/untitled/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/解析布尔表达式/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
