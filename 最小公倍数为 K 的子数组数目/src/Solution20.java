@@ -1,5 +1,3 @@
-import java.math.BigDecimal;
-
 public class Solution20 {
     public int subarrayLCM(int[] nums, int k) {
         int num = 0;
