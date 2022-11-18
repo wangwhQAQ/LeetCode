@@ -1,4 +1,4 @@
-public class Solution16 {
+public class Solution24 {
     public int numTilings(int n) {
         final long MAX = 1000000007;
         long[][] ans = new long[n+1][4];

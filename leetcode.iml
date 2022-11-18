@@ -17,6 +17,18 @@
       <sourceFolder url="file://$MODULE_DIR$/最长重复子数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/模糊坐标/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/解析布尔表达式/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/不同的平均值数目/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/判断字符串的两半是否相似/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/多米诺和托米诺平铺/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/数组的均值分割/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/最小公倍数为 K 的子数组数目/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/温度转换/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/统计一致字符串的数目/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/统计构造好字符串的方案数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/自定义字符串排序/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/获取所有钥匙的最短路径/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/卡车上的最大单元数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/子序列宽度之和/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
