@@ -14,7 +14,7 @@ public class Solution16 {
 
 
     public static void main(String[] args) {
-        Solution24 s = new Solution24();
+        Solution16 s = new Solution16();
         s.numTilings(4);
     }
 }
