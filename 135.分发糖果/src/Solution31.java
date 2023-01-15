@@ -1,25 +1,31 @@
 import java.util.Arrays;
 
 class Solution31 {
-    public int findContentChildren(int[] g, int[] s) {
-        Arrays.sort(s);
-        int res = 0;
-        for (int i = 0; i < g.length; i++) {
-            for (int j = 0; j < s.length; j++) {
-                if (s[j] >= g[i]){
-                    s[j] = 0;
-                    res ++;
-                    break;
-                }
+    public int candy(int[] ratings) {
+        int[] candys1 = new int[ratings.length];
+        int[] candys2 = new int[ratings.length];
+        for (int i = 1; i < ratings.length; i++) {
+            if (ratings[i] > ratings[i-1]){
+                candys1[i] = candys1[i-1] +1;
             }
         }
 
-        return res;
+        for (int i =  ratings.length - 2; i >= 0; i--) {
+            if (ratings[i] > ratings[i+1]){
+                candys2[i] = candys2[i+1] +1;
+            }
+        }
+
+        int res = 0;
+        for (int i = 0; i < ratings.length; i++) {
+            res += Math.max(candys2[i] , candys1[i]);
+        }
+
+        return res+ ratings.length;
     }
 
     public static void main(String[] args) {
-        Solution30 solution30 = new Solution30();
-
-        solution30.findContentChildren(new int[]{1,2,3}, new int[]{1,1});
+        Solution31 solution31 = new Solution31();
+        solution31.candy(new int[]{1,0,2});
     }
 }
