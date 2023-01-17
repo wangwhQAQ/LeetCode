@@ -36,6 +36,7 @@
       <sourceFolder url="file://$MODULE_DIR$/test/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/455. 分发饼干/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/135.分发糖果/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/142. 环形链表 II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/167. 两数之和 II - 输入有序数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/435. 无重叠区间/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/452. 用最少数量的箭引爆气球/src" isTestSource="false" />
