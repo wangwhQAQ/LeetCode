@@ -41,6 +41,7 @@
       <sourceFolder url="file://$MODULE_DIR$/435. 无重叠区间/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/452. 用最少数量的箭引爆气球/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/605. 种花问题/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/76. 最小覆盖子串/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
