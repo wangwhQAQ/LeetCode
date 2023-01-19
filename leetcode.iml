@@ -37,6 +37,7 @@
       <sourceFolder url="file://$MODULE_DIR$/455. 分发饼干/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/135.分发糖果/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/142. 环形链表 II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/154. 寻找旋转排序数组中的最小值 II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/167. 两数之和 II - 输入有序数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. 至多包含 K 个不同字符的最长子串/src" isTestSource="false" />
@@ -45,6 +46,7 @@
       <sourceFolder url="file://$MODULE_DIR$/524. 通过删除字母匹配到字典里最长单词/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/605. 种花问题/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/76. 最小覆盖子串/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/81. 搜索旋转排序数组 II/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
