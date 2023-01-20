@@ -39,6 +39,7 @@
       <sourceFolder url="file://$MODULE_DIR$/142. 环形链表 II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/154. 寻找旋转排序数组中的最小值 II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/167. 两数之和 II - 输入有序数组/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/215. 数组中的第K个最大元素/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. 至多包含 K 个不同字符的最长子串/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. 寻找两个正序数组的中位数/src" isTestSource="false" />
