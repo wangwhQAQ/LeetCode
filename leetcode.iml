@@ -48,6 +48,7 @@
       <sourceFolder url="file://$MODULE_DIR$/452. 用最少数量的箭引爆气球/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/524. 通过删除字母匹配到字典里最长单词/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/605. 种花问题/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/695. 岛屿的最大面积/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/76. 最小覆盖子串/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/81. 搜索旋转排序数组 II/src" isTestSource="false" />
     </content>
