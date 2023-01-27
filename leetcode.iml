@@ -42,6 +42,7 @@
       <sourceFolder url="file://$MODULE_DIR$/215. 数组中的第K个最大元素/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/34. 在排序数组中查找元素的第一个和最后一个位置/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/340. 至多包含 K 个不同字符的最长子串/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/347. 前 K 个高频元素/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. 寻找两个正序数组的中位数/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/435. 无重叠区间/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/452. 用最少数量的箭引爆气球/src" isTestSource="false" />
