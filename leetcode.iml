@@ -44,9 +44,11 @@
       <sourceFolder url="file://$MODULE_DIR$/340. 至多包含 K 个不同字符的最长子串/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/347. 前 K 个高频元素/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/4. 寻找两个正序数组的中位数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/417. 太平洋大西洋水流问题/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/435. 无重叠区间/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/452. 用最少数量的箭引爆气球/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/524. 通过删除字母匹配到字典里最长单词/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/547. 省份数量/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/605. 种花问题/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/695. 岛屿的最大面积/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/76. 最小覆盖子串/src" isTestSource="false" />
