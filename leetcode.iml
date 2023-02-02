@@ -54,6 +54,7 @@
       <sourceFolder url="file://$MODULE_DIR$/695. 岛屿的最大面积/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/76. 最小覆盖子串/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/81. 搜索旋转排序数组 II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/51. N 皇后/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/77. 组合/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/79. 单词搜索/src" isTestSource="false" />
     </content>
