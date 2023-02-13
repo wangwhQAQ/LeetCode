@@ -72,6 +72,7 @@
       <sourceFolder url="file://$MODULE_DIR$/77. 组合/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/79. 单词搜索/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/934. 最短的桥/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/343. 整数拆分/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
