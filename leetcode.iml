@@ -83,6 +83,7 @@
       <sourceFolder url="file://$MODULE_DIR$/384. 打乱数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/415. 字符串相加/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/504. 七进制数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/528. 按权重随机选择/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/补充：拓展欧几里得算法/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
