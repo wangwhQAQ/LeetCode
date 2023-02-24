@@ -84,6 +84,7 @@
       <sourceFolder url="file://$MODULE_DIR$/241. 为运算表达式设计优先级/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/384. 打乱数组/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/415. 字符串相加/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/462. 最小操作次数使数组元素相等 II/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/504. 七进制数/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/528. 按权重随机选择/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/67. 二进制求和/src" isTestSource="false" />
