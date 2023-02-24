@@ -89,6 +89,7 @@
       <sourceFolder url="file://$MODULE_DIR$/528. 按权重随机选择/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/67. 二进制求和/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/补充：拓展欧几里得算法/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/202. 快乐数/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
