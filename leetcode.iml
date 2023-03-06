@@ -89,7 +89,16 @@
       <sourceFolder url="file://$MODULE_DIR$/528. 按权重随机选择/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/67. 二进制求和/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/补充：拓展欧几里得算法/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/190. 颠倒二进制位/src" isTestSource="false" />
       <sourceFolder url="file://$MODULE_DIR$/202. 快乐数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/318. 最大单词长度乘积/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/338. 比特位计数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/448. 找到所有数组中消失的数字/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/48. 旋转图像/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/693. 交替位二进制数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/149. 直线上最多的点数/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/240. 搜索二维矩阵 II/src" isTestSource="false" />
+      <sourceFolder url="file://$MODULE_DIR$/769. 最多能完成排序的块/src" isTestSource="false" />
     </content>
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
